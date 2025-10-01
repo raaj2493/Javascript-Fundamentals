@@ -1,0 +1,28 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch 'Node JS/06_Book_Management/app.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raaj2493/Javascript-Fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raaj2493/Javascript-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/raaj2493/Javascript-Fundamentals#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.5.2",
+    "express": "^5.1.0"
+  }
+}
