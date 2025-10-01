@@ -1,0 +1,29 @@
+{
+  "name": "books-api-mvc",
+  "version": "1.0.0",
+  "description": "A RESTful Books API built with Express.js following MVC architecture",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "books",
+    "api",
+    "mvc",
+    "rest"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
