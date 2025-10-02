@@ -1,4 +1,5 @@
 const { error } = require('console');
+require("dotenv/config");
 const express = require('express');
 const {books} = require("./Database/db")
 const bookRoutes = require("./Routes/bookstore.routes")
