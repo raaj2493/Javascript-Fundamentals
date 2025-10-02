@@ -22,4 +22,4 @@ This repository is my journey of learning **JavaScript** and **Node.js** while b
 
 ---
 
-✨ *This repo is mainly for practice, learning, and growth. Contributions not expected, but ideas are always welcome!*
+✨ *This repo is mainly for practice, learning, and growth. Contributions not expected,  but ideas are always welcome!*
