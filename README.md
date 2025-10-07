@@ -4,7 +4,7 @@ A personal repository documenting my journey of learning JavaScript — from bas
 This repo includes notes, code examples, and practice exercises that help me strengthen my understanding step by step.
 
 🚀 What You’ll Find Here
-
+      
 Core JavaScript concepts — variables, scopes, closures, prototypes, async/await, etc.
    
 Hands-on examples and problem-solving practice.
