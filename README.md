@@ -6,7 +6,7 @@ This repo includes notes, code examples, and practice exercises that help me str
 🚀 What You’ll Find Here
 
 Core JavaScript concepts — variables, scopes, closures, prototypes, async/await, etc.
-
+   
 Hands-on examples and problem-solving practice.
 
 Mini projects and experiments to apply concepts.
